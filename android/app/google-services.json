@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393396089926",
+    "project_id": "eco-buyy-25829",
+    "storage_bucket": "eco-buyy-25829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393396089926:android:c235b66f1bacb93b77c647",
+        "android_client_info": {
+          "package_name": "com.example.eco_buy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "[REDACTED]"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
